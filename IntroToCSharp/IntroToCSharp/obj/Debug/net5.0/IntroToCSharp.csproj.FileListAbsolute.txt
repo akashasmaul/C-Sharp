@@ -1,0 +1,16 @@
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\bin\Debug\net5.0\IntroToCSharp.exe
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\bin\Debug\net5.0\IntroToCSharp.deps.json
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\bin\Debug\net5.0\IntroToCSharp.runtimeconfig.json
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\bin\Debug\net5.0\IntroToCSharp.runtimeconfig.dev.json
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\bin\Debug\net5.0\IntroToCSharp.dll
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\bin\Debug\net5.0\ref\IntroToCSharp.dll
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\bin\Debug\net5.0\IntroToCSharp.pdb
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\obj\Debug\net5.0\IntroToCSharp.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\obj\Debug\net5.0\IntroToCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\obj\Debug\net5.0\IntroToCSharp.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\obj\Debug\net5.0\IntroToCSharp.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\obj\Debug\net5.0\IntroToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\obj\Debug\net5.0\IntroToCSharp.dll
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\obj\Debug\net5.0\ref\IntroToCSharp.dll
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\obj\Debug\net5.0\IntroToCSharp.pdb
+C:\Users\ak4as\source\repos\IntroToCSharp\IntroToCSharp\obj\Debug\net5.0\IntroToCSharp.genruntimeconfig.cache

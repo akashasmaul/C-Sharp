@@ -1,0 +1,16 @@
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\obj\Debug\net5.0\Quiz_1.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\obj\Debug\net5.0\Quiz_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\obj\Debug\net5.0\Quiz_1.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\obj\Debug\net5.0\Quiz_1.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\obj\Debug\net5.0\Quiz_1.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\bin\Debug\net5.0\Quiz_1.exe
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\bin\Debug\net5.0\Quiz_1.deps.json
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\bin\Debug\net5.0\Quiz_1.runtimeconfig.json
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\bin\Debug\net5.0\Quiz_1.runtimeconfig.dev.json
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\bin\Debug\net5.0\Quiz_1.dll
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\bin\Debug\net5.0\ref\Quiz_1.dll
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\bin\Debug\net5.0\Quiz_1.pdb
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\obj\Debug\net5.0\Quiz_1.dll
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\obj\Debug\net5.0\ref\Quiz_1.dll
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\obj\Debug\net5.0\Quiz_1.pdb
+C:\Users\ak4as\source\repos\Week_3\Quiz_1\Quiz_1\obj\Debug\net5.0\Quiz_1.genruntimeconfig.cache

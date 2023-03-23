@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Quiz Calcu/1.0.0": {
+        "runtime": {
+          "Quiz Calcu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz Calcu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

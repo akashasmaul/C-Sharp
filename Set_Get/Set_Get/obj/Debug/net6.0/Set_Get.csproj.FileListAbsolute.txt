@@ -1,0 +1,15 @@
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\bin\Debug\net6.0\Set_Get.exe
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\bin\Debug\net6.0\Set_Get.deps.json
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\bin\Debug\net6.0\Set_Get.runtimeconfig.json
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\bin\Debug\net6.0\Set_Get.dll
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\bin\Debug\net6.0\ref\Set_Get.dll
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\bin\Debug\net6.0\Set_Get.pdb
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\obj\Debug\net6.0\Set_Get.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\obj\Debug\net6.0\Set_Get.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\obj\Debug\net6.0\Set_Get.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\obj\Debug\net6.0\Set_Get.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\obj\Debug\net6.0\Set_Get.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\obj\Debug\net6.0\Set_Get.dll
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\obj\Debug\net6.0\ref\Set_Get.dll
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\obj\Debug\net6.0\Set_Get.pdb
+C:\Users\ak4as\source\repos\Set_Get\Set_Get\obj\Debug\net6.0\Set_Get.genruntimeconfig.cache

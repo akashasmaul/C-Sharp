@@ -1,0 +1,16 @@
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\bin\Debug\net5.0\W3_T4.exe
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\bin\Debug\net5.0\W3_T4.deps.json
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\bin\Debug\net5.0\W3_T4.runtimeconfig.json
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\bin\Debug\net5.0\W3_T4.runtimeconfig.dev.json
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\bin\Debug\net5.0\W3_T4.dll
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\bin\Debug\net5.0\ref\W3_T4.dll
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\bin\Debug\net5.0\W3_T4.pdb
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\obj\Debug\net5.0\W3_T4.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\obj\Debug\net5.0\W3_T4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\obj\Debug\net5.0\W3_T4.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\obj\Debug\net5.0\W3_T4.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\obj\Debug\net5.0\W3_T4.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\obj\Debug\net5.0\W3_T4.dll
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\obj\Debug\net5.0\ref\W3_T4.dll
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\obj\Debug\net5.0\W3_T4.pdb
+C:\Users\ak4as\source\repos\Week_3\W3_T4\W3_T4\obj\Debug\net5.0\W3_T4.genruntimeconfig.cache

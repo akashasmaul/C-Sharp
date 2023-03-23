@@ -1,0 +1,54 @@
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\crrud.exe
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\crrud.deps.json
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\crrud.runtimeconfig.json
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\crrud.runtimeconfig.dev.json
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\crrud.dll
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\ref\crrud.dll
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\crrud.pdb
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Teacher\source\repos\crrud\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.Form1.resources
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.AssemblyInfoInputs.cache
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.AssemblyInfo.cs
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.csproj.CopyComplete
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.dll
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\ref\crrud.dll
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.pdb
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.genruntimeconfig.cache
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.Form2.resources
+C:\Users\Teacher\source\repos\crrud\obj\Debug\net5.0-windows\crrud.Properties.Resources.resources
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\crrud.exe
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\crrud.deps.json
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\crrud.runtimeconfig.json
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\crrud.runtimeconfig.dev.json
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\crrud.dll
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\crrud.pdb
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ak4as\source\repos\Project Demo\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.Form1.resources
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.Form2.resources
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.Properties.Resources.resources
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.csproj.GenerateResource.cache
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.csproj.CopyComplete
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.dll
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\refint\crrud.dll
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.pdb
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\crrud.genruntimeconfig.cache
+C:\Users\ak4as\source\repos\Project Demo\obj\Debug\net5.0-windows\ref\crrud.dll

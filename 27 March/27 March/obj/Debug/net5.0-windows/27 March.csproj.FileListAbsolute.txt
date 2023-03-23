@@ -1,0 +1,20 @@
+C:\Users\ak4as\source\repos\27 March\27 March\bin\Debug\net5.0-windows\27 March.exe
+C:\Users\ak4as\source\repos\27 March\27 March\bin\Debug\net5.0-windows\27 March.deps.json
+C:\Users\ak4as\source\repos\27 March\27 March\bin\Debug\net5.0-windows\27 March.runtimeconfig.json
+C:\Users\ak4as\source\repos\27 March\27 March\bin\Debug\net5.0-windows\27 March.runtimeconfig.dev.json
+C:\Users\ak4as\source\repos\27 March\27 March\bin\Debug\net5.0-windows\27 March.dll
+C:\Users\ak4as\source\repos\27 March\27 March\bin\Debug\net5.0-windows\27 March.pdb
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\27 March.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\_27_March.Form1.resources
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\27 March.csproj.GenerateResource.cache
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\27 March.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\27 March.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\27 March.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\27 March.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\27 March.dll
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\refint\27 March.dll
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\27 March.pdb
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\27 March.genruntimeconfig.cache
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\ref\27 March.dll
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\_27_March.Properties.Resources.resources
+C:\Users\ak4as\source\repos\27 March\27 March\obj\Debug\net5.0-windows\_27_March.threeDot.resources

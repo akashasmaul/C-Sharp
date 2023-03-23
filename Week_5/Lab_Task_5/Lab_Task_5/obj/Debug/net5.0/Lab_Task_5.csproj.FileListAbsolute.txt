@@ -1,0 +1,9 @@
+C:\Users\ak4as\source\repos\Week_5\Lab_Task_5\Lab_Task_5\bin\Debug\net5.0\Lab_Task_5.exe
+C:\Users\ak4as\source\repos\Week_5\Lab_Task_5\Lab_Task_5\obj\Debug\net5.0\Lab_Task_5.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\Week_5\Lab_Task_5\Lab_Task_5\obj\Debug\net5.0\Lab_Task_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\Week_5\Lab_Task_5\Lab_Task_5\obj\Debug\net5.0\Lab_Task_5.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\Week_5\Lab_Task_5\Lab_Task_5\obj\Debug\net5.0\Lab_Task_5.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\Week_5\Lab_Task_5\Lab_Task_5\obj\Debug\net5.0\Lab_Task_5.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\Week_5\Lab_Task_5\Lab_Task_5\obj\Debug\net5.0\Lab_Task_5.dll
+C:\Users\ak4as\source\repos\Week_5\Lab_Task_5\Lab_Task_5\obj\Debug\net5.0\ref\Lab_Task_5.dll
+C:\Users\ak4as\source\repos\Week_5\Lab_Task_5\Lab_Task_5\obj\Debug\net5.0\Lab_Task_5.pdb

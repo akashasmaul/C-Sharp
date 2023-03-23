@@ -1,0 +1,16 @@
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\obj\Debug\net5.0\February_6_Class.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\obj\Debug\net5.0\February_6_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\obj\Debug\net5.0\February_6_Class.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\obj\Debug\net5.0\February_6_Class.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\obj\Debug\net5.0\February_6_Class.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\bin\Debug\net5.0\February_6_Class.exe
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\bin\Debug\net5.0\February_6_Class.deps.json
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\bin\Debug\net5.0\February_6_Class.runtimeconfig.json
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\bin\Debug\net5.0\February_6_Class.runtimeconfig.dev.json
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\bin\Debug\net5.0\February_6_Class.dll
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\bin\Debug\net5.0\ref\February_6_Class.dll
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\bin\Debug\net5.0\February_6_Class.pdb
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\obj\Debug\net5.0\February_6_Class.dll
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\obj\Debug\net5.0\ref\February_6_Class.dll
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\obj\Debug\net5.0\February_6_Class.pdb
+C:\Users\ak4as\source\repos\Week_3\February_6_Class\February_6_Class\obj\Debug\net5.0\February_6_Class.genruntimeconfig.cache

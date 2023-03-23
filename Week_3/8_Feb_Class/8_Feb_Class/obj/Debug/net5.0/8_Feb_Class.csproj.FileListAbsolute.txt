@@ -1,0 +1,16 @@
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\bin\Debug\net5.0\8_Feb_Class.exe
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\bin\Debug\net5.0\8_Feb_Class.deps.json
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\bin\Debug\net5.0\8_Feb_Class.runtimeconfig.json
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\bin\Debug\net5.0\8_Feb_Class.runtimeconfig.dev.json
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\bin\Debug\net5.0\8_Feb_Class.dll
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\bin\Debug\net5.0\ref\8_Feb_Class.dll
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\bin\Debug\net5.0\8_Feb_Class.pdb
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\obj\Debug\net5.0\8_Feb_Class.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\obj\Debug\net5.0\8_Feb_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\obj\Debug\net5.0\8_Feb_Class.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\obj\Debug\net5.0\8_Feb_Class.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\obj\Debug\net5.0\8_Feb_Class.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\obj\Debug\net5.0\8_Feb_Class.dll
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\obj\Debug\net5.0\ref\8_Feb_Class.dll
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\obj\Debug\net5.0\8_Feb_Class.pdb
+C:\Users\ak4as\source\repos\Week_3\8_Feb_Class\8_Feb_Class\obj\Debug\net5.0\8_Feb_Class.genruntimeconfig.cache

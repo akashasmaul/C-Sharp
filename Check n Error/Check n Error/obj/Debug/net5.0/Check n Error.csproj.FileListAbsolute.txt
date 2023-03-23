@@ -1,0 +1,16 @@
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\bin\Debug\net5.0\Check n Error.exe
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\bin\Debug\net5.0\Check n Error.deps.json
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\bin\Debug\net5.0\Check n Error.runtimeconfig.json
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\bin\Debug\net5.0\Check n Error.runtimeconfig.dev.json
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\bin\Debug\net5.0\Check n Error.dll
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\bin\Debug\net5.0\Check n Error.pdb
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\Check n Error.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\Check n Error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\Check n Error.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\Check n Error.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\Check n Error.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\Check n Error.dll
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\ref\Check n Error.dll
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\Check n Error.pdb
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\Check n Error.genruntimeconfig.cache
+C:\Users\ak4as\source\repos\Check n Error\Check n Error\obj\Debug\net5.0\refint\Check n Error.dll

@@ -1,0 +1,16 @@
+C:\Users\ak4as\source\repos\One_February\One_February\bin\Debug\net5.0\One_February.exe
+C:\Users\ak4as\source\repos\One_February\One_February\bin\Debug\net5.0\One_February.deps.json
+C:\Users\ak4as\source\repos\One_February\One_February\bin\Debug\net5.0\One_February.runtimeconfig.json
+C:\Users\ak4as\source\repos\One_February\One_February\bin\Debug\net5.0\One_February.runtimeconfig.dev.json
+C:\Users\ak4as\source\repos\One_February\One_February\bin\Debug\net5.0\One_February.dll
+C:\Users\ak4as\source\repos\One_February\One_February\bin\Debug\net5.0\ref\One_February.dll
+C:\Users\ak4as\source\repos\One_February\One_February\bin\Debug\net5.0\One_February.pdb
+C:\Users\ak4as\source\repos\One_February\One_February\obj\Debug\net5.0\One_February.csproj.AssemblyReference.cache
+C:\Users\ak4as\source\repos\One_February\One_February\obj\Debug\net5.0\One_February.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak4as\source\repos\One_February\One_February\obj\Debug\net5.0\One_February.AssemblyInfoInputs.cache
+C:\Users\ak4as\source\repos\One_February\One_February\obj\Debug\net5.0\One_February.AssemblyInfo.cs
+C:\Users\ak4as\source\repos\One_February\One_February\obj\Debug\net5.0\One_February.csproj.CoreCompileInputs.cache
+C:\Users\ak4as\source\repos\One_February\One_February\obj\Debug\net5.0\One_February.dll
+C:\Users\ak4as\source\repos\One_February\One_February\obj\Debug\net5.0\ref\One_February.dll
+C:\Users\ak4as\source\repos\One_February\One_February\obj\Debug\net5.0\One_February.pdb
+C:\Users\ak4as\source\repos\One_February\One_February\obj\Debug\net5.0\One_February.genruntimeconfig.cache
